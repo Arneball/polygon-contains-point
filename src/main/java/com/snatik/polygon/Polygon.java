@@ -24,7 +24,7 @@ public class Polygon {
      *
      * @return The builder
      */
-    public static Builder Builder() {
+    public static Builder builder() {
         return new Builder();
     }
 
